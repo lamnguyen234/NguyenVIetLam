@@ -1,0 +1,51 @@
+﻿
+.navbar-color {
+    background: rgba(0,0,0,0.8) !important;
+}
+
+.container-body{
+    background: #eeeeee;
+}
+.Login-container {
+    background: #eeeeee;
+    max-width:850px;
+    margin:auto;
+    padding:50px 50px 50px;
+    box-shadow:1px 3px 5px gray;
+
+
+}
+.Register-container {
+    background: #eeeeee;
+    max-width: 850px;
+    margin: auto;
+    padding: 50px 50px 50px;
+    box-shadow: 1px 3px 5px gray;
+}
+a {
+    color: lightgoldenrodyellow;
+}
+.Login-container a {
+    color: black;
+}
+.Title-Login{
+    text-align: center;
+    padding:15px;
+}
+.button-lg {
+    width: 100%;
+    max-width: 200px;
+}
+.dropdown-menu {
+    position: absolute;
+    left: auto !important;
+    background-color: rgba(40, 32, 32, 0.8) !important;
+}
+.list-group-item {
+    margin: 0 !important;
+    background-color: rgba(40, 32, 32, 0.8) !important;
+}
+.form-control{
+    width:100%;
+    margin-right:0px;
+}
